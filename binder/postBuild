@@ -1,0 +1,3 @@
+ #!/bin/bash
+
+export OGGM_USE_MULTIPROCESSING="0"

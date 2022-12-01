@@ -1,0 +1,31 @@
+name: hma-glacial-lakes
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.8
+  - jupyter
+  - bokeh
+  - nbserverproxy
+  - tornado
+  - ipywidgets
+  - graphviz
+  - numpy
+  - scipy
+  - pandas
+  - shapely
+  - netcdf4
+  - configobj
+  - xarray
+  - pyviz_comms
+  - param
+  - holoviews
+  - jinja2
+  - hvplot
+  - panel
+  - parambokeh
+  - ipympl
+  - pip:
+    - joblib
+    - progressbar2
+    - jupyter-panel-proxy

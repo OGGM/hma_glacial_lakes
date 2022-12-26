@@ -10,7 +10,7 @@ dependencies:
   - tornado
   - ipywidgets
   - graphviz
-  - numpy
+  - numpy=1.23.5 
   - scipy
   - pandas
   - geopandas

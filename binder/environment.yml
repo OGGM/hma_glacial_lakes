@@ -20,6 +20,7 @@ dependencies:
   - xarray
   - pyviz_comms
   - param
+  - numba
   - datashader
   - holoviews
   - geoviews

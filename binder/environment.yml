@@ -14,6 +14,7 @@ dependencies:
   - scipy
   - pandas
   - geopandas
+  - spatialpandas
   - shapely
   - netcdf4
   - configobj

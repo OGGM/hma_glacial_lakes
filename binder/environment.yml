@@ -21,6 +21,7 @@ dependencies:
   - pyviz_comms
   - param
   - holoviews
+  - geoviews
   - jinja2
   - hvplot
   - panel

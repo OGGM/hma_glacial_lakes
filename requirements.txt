@@ -1,0 +1,1 @@
+spatialpandas == aktuelle.version. 
